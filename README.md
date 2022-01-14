@@ -1,2 +1,2 @@
-# Repositório do Desafio de Projeto sobre Gut/GitHub da Dio
-Desafio de Projeto sobre Git/GitHub
+# Desafio de Projeto sobre Gut/GitHub da Dio
+Repositório do Desafio de Projeto sobre Git/GitHub
